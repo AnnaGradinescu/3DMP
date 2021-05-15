@@ -4,6 +4,7 @@ The project I chose is a "no fall" toy mechanism. This model's purpose is that i
 For the second checkpoint, I built the chassis and the front wheels of the toy, for which I attached the following sketches:
 1. chassis
 2. front wheels
+
 ![Schita-Chassis-01](https://user-images.githubusercontent.com/79990099/117474128-4fc70c00-af63-11eb-8ed0-6fe7956af72f.png)
 
 ![Front-Wheel-Sketch-02](https://user-images.githubusercontent.com/79990099/117698382-5b693b80-b1cc-11eb-9f28-2c24a6f6d704.png)
