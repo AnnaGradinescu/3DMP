@@ -19,6 +19,7 @@ For the third checkpoint of the final project, I finished the sketches for all t
   10. wheel left rear
 
 ![schita-axle,yoke-03](https://user-images.githubusercontent.com/79990099/118053246-d7aa7d00-b38c-11eb-8593-0c5395ea2b78.png)
+![sketch-rear-motor-07](https://user-images.githubusercontent.com/79990099/118357696-1e15fc80-b584-11eb-9c2d-c207515763d8.png)
 
 For this checkpoint, I also attached the N20 6VDC 150RPM gear motor to the chassis. The model for the motor was imprted from the Grabcad Community. 
 I also tried to find a solution the 3 o-ings on the "wheel left rear", "wheel right rear" and "wheel rotate" components. 
