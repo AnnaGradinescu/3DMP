@@ -9,18 +9,16 @@ For the second checkpoint, I built the chassis and the front wheels of the toy, 
 ![Front-Wheel-Sketch-02](https://user-images.githubusercontent.com/79990099/117698382-5b693b80-b1cc-11eb-9f28-2c24a6f6d704.png)
 
 For the third checkpoint of the final project, I finished the sketches for all the components of the toy car, and modeled the following: 
-3. yoke
-4. axle yoke
-5. axle wheel front
-6. axle wheel rotate
-7. axle wheel right rear
-8. wheel right rear
-9. gear motor
-10. wheel left rear
+  3. yoke
+  4. axle yoke
+  5. axle wheel front
+  6. axle wheel rotate
+  7. axle wheel right rear
+  8. wheel right rear
+  9. gear motor
+  10. wheel left rear
 
 ![schita-axle,yoke-03](https://user-images.githubusercontent.com/79990099/118053246-d7aa7d00-b38c-11eb-8593-0c5395ea2b78.png)
-![gear-crown-axle-06](https://user-images.githubusercontent.com/79990099/118356179-aabcbc80-b57c-11eb-954e-f1adb2001a6d.png)
-![wheel-rotate-05](https://user-images.githubusercontent.com/79990099/118356180-ab555300-b57c-11eb-88ab-4ced247aa4d9.png)
 
 For this checkpoint, I also attached the N20 6VDC 150RPM gear motor to the chassis. The model for the motor was imprted from the Grabcad Community. 
 I also tried to find a solution the 3 o-ings on the "wheel left rear", "wheel right rear" and "wheel rotate" components. 
