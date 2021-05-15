@@ -17,6 +17,7 @@ For the third checkpoint of the final project, I finished the sketches for all t
   8. wheel right rear
   9. gear motor
   10. wheel left rear
+  11. axle gear motor
 
 ![axle-wheels-04](https://user-images.githubusercontent.com/79990099/118357734-3dad2500-b584-11eb-96d3-8dc81cda8c69.png)
 ![schita-axle,yoke-03](https://user-images.githubusercontent.com/79990099/118053246-d7aa7d00-b38c-11eb-8593-0c5395ea2b78.png)
