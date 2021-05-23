@@ -6,7 +6,7 @@ A gear motor is attached to the motor, and this is the component that innitiates
 
 This repository contains .f3d, .f3z and .stl files. To design and render this project, I used Autodesk Fusion 360 program. The motor, as well as the battery, were imported from the Grabcad community.
 
-The "no fall" toy mechanism 
+The original "no fall" toy mechanism can be found at  https://www.instructables.com/No-Fall-Toy-Mechanism/.
 
 For the second checkpoint, I built the chassis and the front wheels of the toy, for which I attached the following sketches:
 1. chassis
