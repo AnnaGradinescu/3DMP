@@ -36,3 +36,5 @@ For the third checkpoint of the final project, I finished the sketches for all t
 
 For this checkpoint, I also attached the N20 6VDC 150RPM gear motor to the chassis. The model for the motor was imprted from the Grabcad Community. 
 I also tried to find a solution the 3 o-rings on the "wheel left rear", "wheel right rear" and "wheel rotate" components. 
+
+For the final checkpoint, I designed the "wheel rotate" and "gear crown axle" components, added joints, moltion links, contact sets, motion studies and appearance to the mechanism and rended the mechanism as well. The rendering was done as a video without motion study because I do not have this option is Fusion 360.
