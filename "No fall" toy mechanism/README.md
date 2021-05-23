@@ -28,4 +28,4 @@ For the third checkpoint of the final project, I finished the sketches for all t
 ![sketch-rear-motor-07](https://user-images.githubusercontent.com/79990099/118357696-1e15fc80-b584-11eb-9c2d-c207515763d8.png)
 
 For this checkpoint, I also attached the N20 6VDC 150RPM gear motor to the chassis. The model for the motor was imprted from the Grabcad Community. 
-I also tried to find a solution the 3 o-ings on the "wheel left rear", "wheel right rear" and "wheel rotate" components. 
+I also tried to find a solution the 3 o-rings on the "wheel left rear", "wheel right rear" and "wheel rotate" components. 
