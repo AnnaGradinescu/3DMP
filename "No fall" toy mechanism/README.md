@@ -2,7 +2,7 @@ This is a README file containing information about the final project for the 3D 
 The project I chose is a "no fall" toy mechanism. This model's purpose is that it will not fall off the edge of the surface it is on and consists of 12 3D printed parts.
 
 
-A gear motor is attached to the motor, and this is the component that innitiates the movement. It is gradually connected to other 3 important parts: the left wheel, the gear crown and the rotation wheel. For the mechanism to work, you need to power the joint between the motor and the gear attached to it. Another important joint is the one attached to the yoke, since it is the one responsible for the specific movement that allows the mechanism to not fall off the surface. In order to see the motion, you need to play the "gear motor" motion study.
+A gear motor is attached to the motor, and this is the component that innitiates the movement. It is gradually connected to other 3 important parts: the left wheel, the gear crown and the rotation wheel. For the mechanism to work, you need to power the joint between the motor and the gear attached to it. Another important joint is the one attached to the yoke, since it is the one responsible for the specific movement that allows the mechanism to not fall off the surface. In order to see the motion, you need to play the "gear motor" motion study. Additionally, the motor needs to be connected to the battery with cables.
 
 This repository contains .f3d, .f3z and .stl files. To design and render this project, I used Autodesk Fusion 360 program. The motor, as well as the battery, were imported from the Grabcad community.
 
